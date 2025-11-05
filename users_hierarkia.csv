@@ -1,0 +1,151 @@
+﻿Name,Email,Location,Department,Title,Address,Phone,Supervisor
+Jari Kallio,jari.kallio@example.com,Kotka,Johto,Toimitusjohtaja,"Keskuskatu 1, 48100 Kotka",,
+Juhani Mikkonen,juhani.mikkonen@example.com,Kotka,Johto,Toimipaikkajohtaja,"Eino Leinon tie 68, Kotka",081 973 6993,Jari Kallio
+Samuel Seppälä,samuel.seppala@example.com,Lahti,Johto,Toimipaikkajohtaja,"Maasälvänkatu 5, Lahti",+358 81 7560480,Jari Kallio
+Henri Voutilainen,henri.voutilainen@example.com,Oulu,Johto,Toimipaikkajohtaja,"Ostoskatu 7, Oulu",+358 52 3279282,Jari Kallio
+Annikki Holopainen,annikki.holopainen@example.com,Kotka,Johto,Toimitusjohtaja,"Louhikkotie 490, Kotka",(+358) 528630374,Juhani Mikkonen
+Juhani Rantala,juhani.rantala@example.com,Kotka,Johto,Johtaja,"Biologinkatu 9, Kotka",029 611 1242,Annikki Holopainen
+Kaarina Tuomi,kaarina.tuomi@example.com,Kotka,Johto,Johtaja,"Wallininkatu 15, Kotka",+358 184090536,Annikki Holopainen
+Jorma Saarinen,jorma.saarinen@example.com,Kotka,Johto,Johtaja,"Winqvistinpolku 1, Kotka",+358 056734341,Annikki Holopainen
+Ilari Saari,ilari.saari@example.com,Kotka,Johto,Johtaja,"Iltaruskonkuja 764, Kotka",+358 84 5782464,Annikki Holopainen
+Veikko Salmi,veikko.salmi@example.com,Kotka,Johto,Johtaja,"Katajaharjunbulevardi 7, Kotka",+358 653505432,Annikki Holopainen
+Marja-Liisa Pöllänen-Sihvonen,marjaliisa.pollanensihvonen@example.com,Kotka,Johto,Johtaja,"Yrttimaanpolku 6, Kotka",+358 18 8308428,Annikki Holopainen
+Toni Karhu,toni.karhu@example.com,Kotka,Johto,Johtaja,"Porinbulevardi 9, Kotka",094 301 4190,Annikki Holopainen
+Kaarina Kortelainen,kaarina.kortelainen@example.com,Kotka,Johto,Johtaja,"Veropellontie 62, Kotka",+358752276682,Annikki Holopainen
+Jalmari Karjalainen,jalmari.karjalainen@example.com,Kotka,Johto,Johtaja,"Yhteiskoulunkuja 7, Kotka",021 837 8015,Annikki Holopainen
+Antti Nurmi,antti.nurmi@example.com,Kotka,Johto,Johtaja,"Santerlantie 5, Kotka",(+358) 422906005,Annikki Holopainen
+Ilmari Rajala,ilmari.rajala@example.com,Kotka,Johto,Johtaja,"Biologinkuja 317, Kotka",+358 445183825,Annikki Holopainen
+Ari Ojanen,ari.ojanen@example.com,Kotka,Johto,Johtaja,"Elonbulevardi 086, Kotka",+358 539992505,Annikki Holopainen
+Harri Huotari,harri.huotari@example.com,Kotka,Johto,Johtaja,"Nordenskiöldinbulevardi 0, Kotka",+358 613979122,Annikki Holopainen
+Juhani Kilpeläinen,juhani.kilpelainen@example.com,Kotka,Johto,Johtaja,"Ahvenkoskenpolku 204, Kotka",0441761052,Annikki Holopainen
+Oliver Salonen-Nykänen,oliver.salonennykanen@example.com,Kotka,Taloushallinto,Talouspäällikkö,"Winqvistinpolku 3, Kotka",0204668328,Juhani Mikkonen
+Ville Jansson,ville.jansson@example.com,Kotka,Taloushallinto,Palkanlaskija,"Yläkaskenbulevardi 609, Kotka",+358 32 2404296,Oliver Salonen-Nykänen
+Aila Nikula,aila.nikula@example.com,Kotka,Taloushallinto,Kirjanpitäjä,"Bengalinkatu 3, Kotka",+358627915823,Oliver Salonen-Nykänen
+Kari Peltola-Hannula,kari.peltolahannula@example.com,Kotka,Taloushallinto,Kirjanpitäjä,"Eino Leinon kuja 3, Kotka",+358 428881338,Oliver Salonen-Nykänen
+Marjukka Lähteenmäki,marjukka.lahteenmaki@example.com,Kotka,Taloushallinto,Palkanlaskija,"Haahkapolku 5, Kotka",(+358) 310060530,Oliver Salonen-Nykänen
+Elisabeth Taskinen-Ojala,elisabeth.taskinenojala@example.com,Kotka,Taloushallinto,Palkanlaskija,"Fallkullanpolku 256, Kotka",+358 484370053,Oliver Salonen-Nykänen
+Maria Salminen,maria.salminen@example.com,Kotka,Taloushallinto,Kirjanpitäjä,"Jäkäläpolku 38, Kotka",+358 100233594,Oliver Salonen-Nykänen
+Marja Laine,marja.laine@example.com,Kotka,Taloushallinto,Kirjanpitäjä,"Taimistonpolku 68, Kotka",(+358) 845514831,Oliver Salonen-Nykänen
+Esteri Kivinen,esteri.kivinen@example.com,Kotka,Taloushallinto,Palkanlaskija,"Immolanbulevardi 3, Kotka",+358 778094161,Oliver Salonen-Nykänen
+Helena Rantanen,helena.rantanen@example.com,Kotka,Taloushallinto,Palkanlaskija,"Walentin Chorellin polku 3, Kotka",0814631947,Oliver Salonen-Nykänen
+Jouko Miettinen,jouko.miettinen@example.com,Kotka,Taloushallinto,Kirjanpitäjä,"Porkkalantie 2, Kotka",(+358) 369900153,Oliver Salonen-Nykänen
+Marjatta Vuorinen,marjatta.vuorinen@example.com,Kotka,Taloushallinto,Kirjanpitäjä,"Ylipalonpolku 242, Kotka",061 426 6114,Oliver Salonen-Nykänen
+Johannes Salonen,johannes.salonen@example.com,Kotka,Taloushallinto,Palkanlaskija,"Uskalikontie 914, Kotka",(+358) 624973847,Oliver Salonen-Nykänen
+Laura Nieminen-Laukkanen,laura.nieminenlaukkanen@example.com,Kotka,Taloushallinto,Kirjanpitäjä,"Jänkäbulevardi 839, Kotka",+358981386290,Oliver Salonen-Nykänen
+Pekka Piirainen,pekka.piirainen@example.com,Kotka,Taloushallinto,Palkanlaskija,"Louhikkotie 71, Kotka",+358 03 1343124,Oliver Salonen-Nykänen
+Elisa Mäkinen-Nieminen,elisa.makinennieminen@example.com,Kotka,Taloushallinto,Kirjanpitäjä,"Jälsitie 465, Kotka",0074789535,Oliver Salonen-Nykänen
+Anna Kivinen,anna.kivinen@example.com,Kotka,Henkilöstöhallinto,HR-päällikkö,"Willebrandinbulevardi 6, Kotka",072 958 2884,Juhani Mikkonen
+Aleksandra Miettinen,aleksandra.miettinen@example.com,Kotka,Henkilöstöhallinto,HR-asiantuntija,"Lautamiehentie 858, Kotka",+358528518405,Anna Kivinen
+Heikki Hiltunen,heikki.hiltunen@example.com,Kotka,Henkilöstöhallinto,Rekrytointikoordinaattori,"Maneesikuja 88, Kotka",(+358) 596413521,Anna Kivinen
+Marjatta Toivonen-Korpi,marjatta.toivonenkorpi@example.com,Kotka,Henkilöstöhallinto,Rekrytointikoordinaattori,"Puroniityntie 4, Kotka",+358622240888,Anna Kivinen
+Eeva Laakso-Mäkinen,eeva.laaksomakinen@example.com,Kotka,Henkilöstöhallinto,Rekrytointikoordinaattori,"Lautamiehenkuja 507, Kotka",+358 717438027,Anna Kivinen
+Tarja Makkonen,tarja.makkonen@example.com,Kotka,Henkilöstöhallinto,Rekrytointikoordinaattori,"Verkkobulevardi 103, Kotka",007 387 7030,Anna Kivinen
+Ilkka Virtanen-Laiho,ilkka.virtanenlaiho@example.com,Kotka,Henkilöstöhallinto,Rekrytointikoordinaattori,"Ilomäenbulevardi 040, Kotka",003 965 7249,Anna Kivinen
+Oskari Henriksson,oskari.henriksson@example.com,Kotka,Henkilöstöhallinto,Rekrytointikoordinaattori,"Puuskapolku 3, Kotka",064 284 7166,Anna Kivinen
+Tuula Keränen-Aalto,tuula.keranenaalto@example.com,Kotka,Henkilöstöhallinto,HR-asiantuntija,"Tuohikoivunpolku 202, Kotka",0344565624,Anna Kivinen
+Reijo Aaltonen,reijo.aaltonen@example.com,Kotka,Henkilöstöhallinto,HR-asiantuntija,"Harbonkuja 5, Kotka",025 929 0868,Anna Kivinen
+Ensio Välimäki-Jansson,ensio.valimakijansson@example.com,Kotka,Henkilöstöhallinto,Rekrytointikoordinaattori,"Jänkäkuja 5, Kotka",+358311336236,Anna Kivinen
+Irmeli Huttunen,irmeli.huttunen@example.com,Kotka,IT-Tuki,IT-päällikkö,"Rapolankuja 34, Kotka",(+358) 580286965,Juhani Mikkonen
+Nina Holmberg-Tuomi,nina.holmbergtuomi@example.com,Kotka,IT-Tuki,Järjestelmäasiantuntija,"Tahtikatu 77, Kotka",+358 787994879,Irmeli Huttunen
+Rainer Lehtonen,rainer.lehtonen@example.com,Kotka,IT-Tuki,Helpdesk-asiantuntija,"Dunckerinpolku 06, Kotka",(+358) 503218680,Irmeli Huttunen
+Aulikki Pulkkinen,aulikki.pulkkinen@example.com,Kotka,IT-Tuki,Järjestelmäasiantuntija,"Vellikellonpolku 500, Kotka",+358 033933802,Irmeli Huttunen
+Jari Koponen,jari.koponen@example.com,Kotka,IT-Tuki,Helpdesk-asiantuntija,"Järkälekatu 07, Kotka",+358 29 0364552,Irmeli Huttunen
+Jorma Keränen,jorma.keranen@example.com,Kotka,IT-Tuki,Helpdesk-asiantuntija,"Agricolankuja 489, Kotka",+358 51 0650255,Irmeli Huttunen
+Matti Ojala,matti.ojala@example.com,Kotka,IT-Tuki,Järjestelmäasiantuntija,"Kilpolankatu 3, Kotka",048 117 1131,Irmeli Huttunen
+Juhani Kiuru,juhani.kiuru@example.com,Kotka,IT-Tuki,Helpdesk-asiantuntija,"Betonikatu 4, Kotka",0620553647,Irmeli Huttunen
+Elina Pekkarinen,elina.pekkarinen@example.com,Kotka,IT-Tuki,Helpdesk-asiantuntija,"Elontie 57, Kotka",+358 024594353,Irmeli Huttunen
+Hannele Laiho,hannele.laiho@example.com,Kotka,IT-Tuki,Helpdesk-asiantuntija,"Wecksellinbulevardi 093, Kotka",+358765293368,Irmeli Huttunen
+Jarno Vartiainen,jarno.vartiainen@example.com,Kotka,IT-Tuki,Järjestelmäasiantuntija,"Graniittipolku 0, Kotka",035 731 8020,Irmeli Huttunen
+Helena Salonen,helena.salonen@example.com,Kotka,IT-Tuki,Helpdesk-asiantuntija,"Capellan puistokatu 311, Kotka",+358 11 0455276,Irmeli Huttunen
+Antero Huotari-Ihalainen,antero.huotariihalainen@example.com,Kotka,IT-Tuki,Helpdesk-asiantuntija,"Benktanpolku 449, Kotka",+358 33 0885397,Irmeli Huttunen
+Helena Mäkinen,helena.makinen@example.com,Kotka,IT-Tuki,Järjestelmäasiantuntija,"Agronominkatu 12, Kotka",+358 226194133,Irmeli Huttunen
+Petteri Mäenpää,petteri.maenpaa@example.com,Kotka,IT-Tuki,Järjestelmäasiantuntija,"Runonlaulajanpolku 9, Kotka",+358872878573,Irmeli Huttunen
+Mika Hartikainen,mika.hartikainen@example.com,Lahti,Tietoturva,Tietoturvapäällikkö,"Sapilastie 938, Lahti",+358 896404625,Samuel Seppälä
+Antero Mikkonen-Räisänen,antero.mikkonenraisanen@example.com,Lahti,Tietoturva,Tietoturva-asiantuntija,"Ehrensvärdinkatu 7, Lahti",+358972553344,Mika Hartikainen
+Maria Miettinen,maria.miettinen@example.com,Lahti,Tietoturva,Tietoturva-asiantuntija,"Maneesipolku 4, Lahti",(+358) 239408740,Mika Hartikainen
+Akseli Turunen,akseli.turunen@example.com,Lahti,Tietoturva,Tietoturva-asiantuntija,"Porintie 689, Lahti",0285320817,Mika Hartikainen
+Maria Laine,maria.laine@example.com,Lahti,Tietoturva,Tietoturva-asiantuntija,"Adolf Lindforsin bulevardi 799, Lahti",0535510123,Mika Hartikainen
+Sofia Jääskeläinen-Johansson,sofia.jaaskelainenjohansson@example.com,Lahti,Tietoturva,Tietoturva-asiantuntija,"Ilkankatu 74, Lahti",002 391 1628,Mika Hartikainen
+Onni Helin,onni.helin@example.com,Lahti,Tietoturva,Tietoturva-asiantuntija,"Willebrandintie 157, Lahti",+358 381163847,Mika Hartikainen
+Sinikka Rissanen,sinikka.rissanen@example.com,Lahti,Tietoturva,Tietoturva-asiantuntija,"Purjetuulenbulevardi 27, Lahti",+358 326774565,Mika Hartikainen
+Maria Berg,maria.berg@example.com,Lahti,Tietoturva,Tietoturva-asiantuntija,"Mannerheiminkuja 0, Lahti",031 796 7033,Mika Hartikainen
+Hannele Nissinen,hannele.nissinen@example.com,Lahti,Tietoturva,Tietoturva-asiantuntija,"Saanatunturinkatu 65, Lahti",019 970 3686,Mika Hartikainen
+Aino Kinnunen,aino.kinnunen@example.com,Lahti,Tietoturva,Tietoturva-asiantuntija,"Harakkamyllynpolku 374, Lahti",(+358) 596201980,Mika Hartikainen
+Tero Puhakka,tero.puhakka@example.com,Lahti,Verkkoylläpito,Verkkoasiantuntija,"Ahdekaunokintie 22, Lahti",+358650349799,Samuel Seppälä
+Pekka Anttila-Mikkola,pekka.anttilamikkola@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Oravakatu 275, Lahti",+358 78 1799208,Tero Puhakka
+Julia Saarinen,julia.saarinen@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Saparonkatu 445, Lahti",(+358) 367941870,Tero Puhakka
+Ilmari Saari,ilmari.saari@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Adolf Lindforsin katu 80, Lahti",+358866531592,Tero Puhakka
+Tauno Rantala-Saari,tauno.rantalasaari@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Ahdekaunokinpolku 4, Lahti",+358213041819,Tero Puhakka
+Lassi Keränen,lassi.keranen@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Gunnel Nymanin katu 2, Lahti",+358158461397,Tero Puhakka
+Irmeli Pelkonen,irmeli.pelkonen@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Yrttimaantie 0, Lahti",+358 901358783,Tero Puhakka
+Mikko Salmela-Parviainen,mikko.salmelaparviainen@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Nordenskiöldinbulevardi 47, Lahti",+358 09 0564344,Tero Puhakka
+Susanna Matilainen,susanna.matilainen@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Walentin Chorellin bulevardi 93, Lahti",+358 362309005,Tero Puhakka
+Tuula Lammi,tuula.lammi@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Osuuskunnankatu 39, Lahti",+358315001199,Tero Puhakka
+Taina Nykänen,taina.nykanen@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Orisaarenbulevardi 935, Lahti",(+358) 962463746,Tero Puhakka
+Petteri Kangas,petteri.kangas@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Usvakuja 8, Lahti",+358 539864784,Tero Puhakka
+Seija Korhonen-Kangas,seija.korhonenkangas@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Iltatähdentie 69, Lahti",+358 716261797,Tero Puhakka
+Anne Makkonen,anne.makkonen@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Damaskuksentie 78, Lahti",+358 943459611,Tero Puhakka
+Kirsi Suominen,kirsi.suominen@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Sahaajantie 888, Lahti",+358 524205541,Tero Puhakka
+Elsa Korhonen,elsa.korhonen@example.com,Lahti,Asiakastuki,Asiakastukipäällikkö,"Rapakivenkatu 46, Lahti",+358819615907,Samuel Seppälä
+Tapio Salminen,tapio.salminen@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Yllästunturinkuja 51, Lahti",(+358) 277657963,Elsa Korhonen
+Kalle Heikkilä-Heikkilä,kalle.heikkilaheikkila@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Yrjö-Koskisen polku 786, Lahti",+358 09 4001900,Elsa Korhonen
+Juhani Kettunen,juhani.kettunen@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Dunckerinbulevardi 2, Lahti",(+358) 167320704,Elsa Korhonen
+Vuokko Eklund,vuokko.eklund@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Laajasalonbulevardi 533, Lahti",058 491 8400,Elsa Korhonen
+Veikko Heinonen,veikko.heinonen@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Maneesibulevardi 8, Lahti",+358 711064217,Elsa Korhonen
+Heikki Pulkkinen,heikki.pulkkinen@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Franzéninpolku 960, Lahti",+358 98 1895990,Elsa Korhonen
+Eila Keränen,eila.keranen@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Bengalintie 643, Lahti",083 478 0282,Elsa Korhonen
+Johannes Kivimäki,johannes.kivimaki@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Osuuskunnankuja 63, Lahti",+358 24 6868913,Elsa Korhonen
+Juhani Aaltonen,juhani.aaltonen@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Uunisepänkatu 6, Lahti",0978608843,Elsa Korhonen
+Annikki Huttunen,annikki.huttunen@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Ieskatu 63, Lahti",(+358) 302613753,Elsa Korhonen
+Juhani Laaksonen,juhani.laaksonen@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Ylä-Fallin katu 474, Lahti",+358 93 4083631,Elsa Korhonen
+Tapani Luukkonen,tapani.luukkonen@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Graniittibulevardi 16, Lahti",+358 955711255,Elsa Korhonen
+Olivia Laitinen,olivia.laitinen@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Yrjönkatu 66, Lahti",+358 48 1211925,Elsa Korhonen
+Mikael Ranta,mikael.ranta@example.com,Oulu,Tuotekehitys,Tuotekehityspäällikkö,"Jätkäsaarentie 833, Oulu",+358 04 7962679,Henri Voutilainen
+Hilkka Niskanen,hilkka.niskanen@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Betonitie 779, Oulu",095 066 0450,Mikael Ranta
+Kalevi Karhu,kalevi.karhu@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Fagottipolku 96, Oulu",(+358) 236715672,Mikael Ranta
+Tuomas Korpela,tuomas.korpela@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Elontie 9, Oulu",+358361415410,Mikael Ranta
+Sofia Ylönen-Karjalainen,sofia.ylonenkarjalainen@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Dosentinkuja 9, Oulu",+358368020572,Mikael Ranta
+Hannele Lehtonen,hannele.lehtonen@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Sapilasbulevardi 015, Oulu",+358823429147,Mikael Ranta
+Tuomas Anttila-Ryynänen,tuomas.anttilaryynanen@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Caloniuksenpolku 0, Oulu",031 608 1560,Mikael Ranta
+Ari Hämäläinen,ari.hamalainen@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Dagmarinkuja 353, Oulu",+358 804832797,Mikael Ranta
+Olavi Alatalo,olavi.alatalo@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Porekatu 566, Oulu",031 085 1528,Mikael Ranta
+Olavi Korpela,olavi.korpela@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Edelfeltinkatu 395, Oulu",+358 898136748,Mikael Ranta
+Jesse Salonen,jesse.salonen@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Ormuspolku 4, Oulu",0334960746,Mikael Ranta
+Ahti Heikkinen,ahti.heikkinen@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Otermankatu 7, Oulu",0456645232,Mikael Ranta
+Juhani Lehtinen,juhani.lehtinen@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Disankatu 7, Oulu",+358190696878,Mikael Ranta
+Mikael Lehtonen-Turunen,mikael.lehtonenturunen@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Böstaksenbulevardi 2, Oulu",+358453032639,Mikael Ranta
+Veli Laitinen,veli.laitinen@example.com,Oulu,Ohjelmistokehitys,Ohjelmistopäällikkö,"Bengalinkuja 54, Oulu",+358 065304530,Henri Voutilainen
+Elisabet Lepistö-Kortelainen,elisabet.lepistokortelainen@example.com,Oulu,Ohjelmistokehitys,Ohjelmistokehittäjä,"Waseniuksen puistokatu 2, Oulu",+358 66 1217127,Veli Laitinen
+Petteri Liukkonen,petteri.liukkonen@example.com,Oulu,Ohjelmistokehitys,Ohjelmistokehittäjä,"Lautamiehenpolku 31, Oulu",+358 789138935,Veli Laitinen
+Siiri Lehtinen-Nurmi,siiri.lehtinennurmi@example.com,Oulu,Ohjelmistokehitys,Ohjelmistokehittäjä,"Gustav Pauligin bulevardi 75, Oulu",+358 43 1612613,Veli Laitinen
+Juhani Simola,juhani.simola@example.com,Oulu,Ohjelmistokehitys,Ohjelmistokehittäjä,"Porinkatu 12, Oulu",+358 189324495,Veli Laitinen
+Kristiina Kari,kristiina.kari@example.com,Oulu,Ohjelmistokehitys,Ohjelmistokehittäjä,"Sadekuja 2, Oulu",0249617812,Veli Laitinen
+Kyllikki Pesonen,kyllikki.pesonen@example.com,Oulu,Ohjelmistokehitys,Ohjelmistokehittäjä,"Runonlaulajankuja 730, Oulu",0300017369,Veli Laitinen
+Olavi Haapanen,olavi.haapanen@example.com,Oulu,Ohjelmistokehitys,Ohjelmistokehittäjä,"Bysantinkuja 9, Oulu",0447456849,Veli Laitinen
+Juuso Seppälä,juuso.seppala@example.com,Oulu,Ohjelmistokehitys,Ohjelmistokehittäjä,"Porinpolku 6, Oulu",0179892308,Veli Laitinen
+Antti Viitanen-Parkkinen,antti.viitanenparkkinen@example.com,Oulu,Ohjelmistokehitys,Ohjelmistokehittäjä,"Jäkäläpolku 12, Oulu",+358 21 5199658,Veli Laitinen
+Jenni Luoma-Mikkonen,jenni.luomamikkonen@example.com,Oulu,Ohjelmistokehitys,Ohjelmistokehittäjä,"Laajasalonpolku 122, Oulu",+358 60 8146713,Veli Laitinen
+Matilda Partanen,matilda.partanen@example.com,Oulu,Projektinhallinta,Projektipäällikkö,"Fahlanderin puistopolku 185, Oulu",054 262 9926,Henri Voutilainen
+Ville Nykänen,ville.nykanen@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Lepolantie 543, Oulu",+358031741620,Matilda Partanen
+Sini Manninen,sini.manninen@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Agnes Sjöbergin tie 590, Oulu",(+358) 096243010,Matilda Partanen
+Mikko Mustonen,mikko.mustonen@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Malminkartanonkuja 537, Oulu",+358 170042959,Matilda Partanen
+Ulla Kangas,ulla.kangas@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Santerlanpolku 3, Oulu",+358103787001,Matilda Partanen
+Erik Nylund-Rintala,erik.nylundrintala@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Rantavarastonpolku 028, Oulu",0792737340,Matilda Partanen
+Jari Saarinen-Nuutinen,jari.saarinennuutinen@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Veropellonbulevardi 26, Oulu",+358 72 7931576,Matilda Partanen
+Henry Nuutinen,henry.nuutinen@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Gunnel Nymanin katu 5, Oulu",0923678300,Matilda Partanen
+Veikko Karjalainen-Mäki,veikko.karjalainenmaki@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Saparonkuja 6, Oulu",+358 81 8518184,Matilda Partanen
+Arttu Suominen,arttu.suominen@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Jättiläisenbulevardi 7, Oulu",+358441608329,Matilda Partanen
+Juhani Autio-Seppälä,juhani.autioseppala@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Vaakalinnuntie 9, Oulu",(+358) 205476006,Matilda Partanen
+Mirjam Jokinen-Häkkinen,mirjam.jokinenhakkinen@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Elontie 884, Oulu",+358 348627823,Matilda Partanen
+Kristian Kinnunen-Malinen,kristian.kinnunenmalinen@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Wavulininpolku 0, Oulu",073 761 0800,Matilda Partanen
+Pasi Jokinen,pasi.jokinen@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Bertel Jungin bulevardi 1, Oulu",+358322535668,Matilda Partanen
+Marika Kettunen-Kähkönen,marika.kettunenkahkonen@example.com,Lahti,Tietoturva,Tietoturva-asiantuntija,"Ahvenkoskenkuja 66, Lahti",052 164 9506,Sinikka Rissanen
+Juhani Kinnunen-Suominen,juhani.kinnunensuominen@example.com,Kotka,Johto,Toimitusjohtaja,"Haravakatu 5, Kotka",+358 01 3309667,Jari Kallio
+Juhani Kärkkäinen,juhani.karkkainen@example.com,Oulu,Projektinhallinta,Projektikoordinaattori,"Niittylänkatu 096, Oulu",+358 298193889,Sini Manninen
+Marjatta Väyrynen-Martikainen,marjatta.vayrynenmartikainen@example.com,Lahti,Asiakastuki,Asiakaspalvelija,"Salavapolku 9, Lahti",+358 763935651,Johannes Kivimäki
+Antti Ollikainen,antti.ollikainen@example.com,Kotka,Henkilöstöhallinto,HR-asiantuntija,"Rukokuja 4, Kotka",+358115812426,Marjatta Toivonen-Korpi
+Mikael Tuominen,mikael.tuominen@example.com,Oulu,Tuotekehitys,Tuotekehityspäällikkö,"Runoilijantie 889, Oulu",0873490777,Mikael Ranta
+Virpi Korpela,virpi.korpela@example.com,Lahti,Verkkoylläpito,Verkkoasiantuntija,"Porinkatu 93, Lahti",0579843212,Anne Makkonen
+Annikki Valkama,annikki.valkama@example.com,Lahti,Verkkoylläpito,Järjestelmäylläpitäjä,"Puuskakatu 11, Lahti",0828452284,Pekka Anttila-Mikkola
+Jari Hämäläinen-Niskanen,jari.hamalainenniskanen@example.com,Oulu,Tuotekehitys,Tuotekehitysinsinööri,"Nervanderinkatu 40, Oulu",+358087144275,Kalevi Karhu
+Liisa Ahonen,liisa.ahonen@example.com,Kotka,Johto,Johtaja,"Vellikellonbulevardi 345, Kotka",+358 145142198,Ari Ojanen
